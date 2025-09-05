@@ -208,7 +208,7 @@ Determining-the-handmade-number-using-PyTorch/
 
 ## 👤 Автор
 
-**[Ваше имя]**
+**Капник Данил**
 
 - GitHub: [@Gando4lapi](https://github.com/Gando4lapi)
 - Email: kapnik.dan@gmail.com
